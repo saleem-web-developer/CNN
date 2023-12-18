@@ -11,8 +11,8 @@ from keras.callbacks import ReduceLROnPlateau, EarlyStopping
 import matplotlib.pyplot as plt
 
 # Path to the training, testing, and prediction datasets
-train_path = r"D://Machine Learning//seg_train/seg_train"
-test_path = r"D://Machine Learning//seg_test/seg_test"
+train_path = r"Path_to_your_training_data"
+test_path = r"Path_to_your_test_data"
 image_size = (150, 150)
 batch_size = 32
 
