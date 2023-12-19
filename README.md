@@ -1,6 +1,6 @@
 # CNN
 Image Classification using CNN
-![image](https://github.com/saleem-web-developer/CNN/assets/134442110/0a9b9fba-d806-4c49-af32-27fc481e9c94)
+![image](https://github.com/saleem-web-developer/CNN/assets/134442110/f47c4b23-1d0b-4175-bb0e-9e37cfb0f006)
 import warnings
 warnings.filterwarnings('ignore')
 import tensorflow as tf
